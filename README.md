@@ -9,3 +9,9 @@ Hi! I'm Jamie Thompson-- a contributor to this product.
 
 ##This project features starter code that was created by Georgeyoo on GitHub
 
+Another contributor to this project was user Xandromus on Github
+
+
+    ```md
+    ![alt text](assets/images/screenshot.png)
+    ```
