@@ -12,7 +12,5 @@ Hi! I'm Jamie Thompson-- a contributor to this product.
 Another contributor to this project was user Xandromus on Github
 
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+   
 [Horiseon](file:///C:/Users/zelda/OneDrive/Desktop/Horiseon/Develop/index.html)
