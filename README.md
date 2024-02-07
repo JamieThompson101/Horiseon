@@ -11,6 +11,6 @@ Hi! I'm Jamie Thompson-- a contributor to this product.
 
 Another contributor to this project was user Xandromus on Github
 
-
-   
 [Horiseon](file:///C:/Users/zelda/OneDrive/Desktop/Horiseon/Develop/index.html)
+
+![horiseon](https://github.com/JamieThompson101/Horiseon/assets/130515437/68161f45-a627-4973-aeca-9157b1c7f30d)
